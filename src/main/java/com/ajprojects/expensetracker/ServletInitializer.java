@@ -1,4 +1,4 @@
-package com.ajsolutions.expensetracker;
+package com.ajprojects.expensetracker;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

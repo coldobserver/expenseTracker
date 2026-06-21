@@ -9,7 +9,7 @@
 		<version>3.5.15</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ajsolutions</groupId>
+	<groupId>com.ajprojects</groupId>
 	<artifactId>expensetracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
